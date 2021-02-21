@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "fname": "jamal",
+      "lname": "ansaaa",
+      "email": "jamal@test.com",
+      "gender": "Male",
+      "dob": "1982-03-10T18:30:00.000Z",
+      "password": "dfdgfdgfsd",
+      "id": 1
+    },
+    {
+      "fname": "munna",
+      "lname": "ansaaa",
+      "email": "munna@test.com",
+      "gender": "Male",
+      "dob": "1995-09-09T18:30:00.000Z",
+      "password": "ffdfbfbfgdfgfd",
+      "cpassword": "fvfbgbg",
+      "id": 2
+    }
+  ]
+}

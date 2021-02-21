@@ -1,0 +1,39 @@
+mat-card {
+    max-width: 600px;
+    margin: 2em auto;
+    text-align: center;
+    max-height: 900px;
+  }
+  
+  .header{
+    text-align: center;
+  
+  }
+  .full-width {
+    width: 80%;
+  }
+  .half-width{
+    width: 40%;
+    margin-left: 3px;
+  
+  }
+  
+  
+  .input{
+    padding-top: 10px;
+  }
+  
+  .contentBody {
+    padding: 60px 1rem;
+    background :#1b6ca8;
+    display: block;
+  }
+  
+  .close{
+    text-decoration: none;
+    border: none;
+    background: red;
+    color: white;
+    
+  }
+  
